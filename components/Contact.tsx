@@ -33,8 +33,8 @@ export default function Contact() {
         </svg>
       ),
       title: t('contact.email'),
-      value: 'scr4ves@gmail.com',
-      link: 'mailto:scr4ves@gmail.com',
+      value: 'raffifaiq11@gmail.com',
+      link: 'mailto:raffifaiq11@gmail.com',
     },
     {
       icon: (
