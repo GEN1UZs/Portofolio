@@ -62,7 +62,7 @@ const translations: Record<Language, Record<string, string>> = {
     'nav.projects': 'Proyek',
     'nav.contact': 'Kontak',
 
-    'hero.greeting': 'Halo, Saya',
+    'hero.greeting': 'Halo, saya',
     'hero.role': 'Pengembang Web Full Stack',
     'hero.description': 'Saya membuat pengalaman digital yang luar biasa dengan kode yang bersih dan desain yang indah',
     'hero.cta.projects': 'Lihat Proyek Saya',
@@ -141,7 +141,7 @@ const translations: Record<Language, Record<string, string>> = {
     'nav.projects': 'Projects',
     'nav.contact': 'Contact',
 
-    'hero.greeting': 'Hello, I\'m',
+    'hero.greeting': 'Hello, i\'m',
     'hero.role': 'Full Stack Web Developer',
     'hero.description': 'I craft exceptional digital experiences with clean code and beautiful design',
     'hero.cta.projects': 'View My Work',

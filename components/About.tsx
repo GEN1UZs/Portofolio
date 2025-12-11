@@ -28,7 +28,7 @@ export default function About() {
             <div className="relative aspect-square rounded-2xl bg-gradient-to-br from-primary-500 to-purple-600 p-1">
               <div className="w-full h-full rounded-2xl bg-gray-100 dark:bg-dark-800 overflow-hidden">
                 <Image
-                  src={theme === 'dark' ? '/dark_theme.png' : '/light_theme.png'}
+                  src={theme === 'dark' ? '/light_theme.png' : '/light_theme.png'}
                   alt="Portfolio Website Preview"
                   width={600}
                   height={600}
